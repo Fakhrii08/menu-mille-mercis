@@ -673,7 +673,7 @@ function App() {
           <span style={{ fontSize: '11px', fontWeight: '600' }}>Avis Google</span>
         </button>
         <button 
-          onClick={() => window.open('https://www.instagram.com/mille.mercis_/', '_blank')}
+          onClick={() => window.open('https://www.instagram.com/mille.mercis.cafe.patisserie?igsh=MXJubHljdHNleG52bw==', '_blank')}
           style={styles.navButton(false)}
         >
           <span style={{ fontSize: '20px' }}>📸</span>
